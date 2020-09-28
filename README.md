@@ -13,4 +13,4 @@ The CSS was consolidated to lessen the length of the code overall. This removed 
 URL: https://CodeGuy5280.github.io/CodeRefactor/
 
 
-https://gyazo.com/e029a68ee19ad1265dbfe0f82e881b69
+.
