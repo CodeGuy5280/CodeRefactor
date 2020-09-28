@@ -10,4 +10,4 @@ Updating of HTML & CSS
 The HTML has been upated to semantic elements from the original divs. This was done to allow ease of reading/understanding of the code.
 The CSS was consolidated to lessen the length of the code overall. This removed unneccessary tags and or code manipulation. 
 
-URL: 
+URL: https://CodeGuy5280.github.io/CodeRefactor/
