@@ -14,3 +14,5 @@ URL: https://CodeGuy5280.github.io/CodeRefactor/
 
 Screenshot of Webpage
 https://i.gyazo.com/b0ad6d4257977dd1825ab01016e2b46b.png
+
+![image](https://user-images.githubusercontent.com/68485707/94380120-6c5bb580-00f1-11eb-9011-5fbd8b024f02.png)
